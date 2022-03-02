@@ -1,0 +1,5 @@
+#Store metainfo properties
+#Wed Mar 02 21:41:13 UTC 2022
+description=Business Partner End of Purpose Check from SAP ERP
+source=SAPS4HANACloud
+target=SAPCloudforCustomer

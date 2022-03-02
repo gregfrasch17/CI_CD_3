@@ -1,0 +1,13 @@
+#Parameter data and values
+#Tue Jul 10 09:49:53 IST 2018
+c4c-communication-user=
+S4_senderAuthType_35=RoleBased
+C4C_authentication_17=Client Certificate
+Host=*.crm.ondemand.com
+S4_userRole_33=ESBMessaging.send
+C4C_proxyType_7=default
+C4C_requestTimeout_16=60000
+issuer=
+subject=
+pv-key-alias=
+S4_address_20=/S4/C4C/CustomerEndOfPurposeCheck
