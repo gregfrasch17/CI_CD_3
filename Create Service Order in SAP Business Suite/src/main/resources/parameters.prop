@@ -1,0 +1,16 @@
+#Tue Nov 03 04:39:25 UTC 2020
+Protocol-Hostname-Port=https\://*.s4hana.com\:443
+Subject=Subject
+Extension\ Implemented=false
+Location_ID=
+Pv-key-alias=
+Timeout=60000
+C4C_SOAP_S_FollowupDocumentRequestCreation=/C4C/S4/FollowupDocumentRequestCreation
+Sender_Auth=RoleBased
+ServiceOrderPostExit=/C4C/S4/FollowupDocumentRequestCreation_Exit
+ProxyType=default
+Receiver_Auth=Client Certificate
+artifactname=
+Issuer=Issuer
+UserRole=ESBMessaging.send
+AllowChunking=1

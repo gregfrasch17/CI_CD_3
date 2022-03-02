@@ -1,0 +1,5 @@
+#Store metainfo properties
+#Wed Mar 02 22:03:43 UTC 2022
+description=Follow-up Service Order creation in SAP Business Suite
+source=SAPCloudforCustomer
+target=SAPS4HANACloud
